@@ -1,2 +1,6 @@
 # Mathematical-Modeling-and-Data-Analysis-Competition-Portfolio
 本仓库收录了我本科阶段参与的各类数学建模、数据分析竞赛完整作品，涵盖国赛 / 省赛 / 校级等多项赛事成果，是从零基础备赛到完整论文产出的全流程实战案例。 由于作品完成时间较早，原始代码已遗失，本仓库仅归档留存最终竞赛作品、解题思路、论文底稿，不包含可运行代码，仅作为备赛参考使用。 仓库内同步上传了我参加全国大学生数学建模竞赛的完整 Word 论文底稿，从题目分析、模型建立、数据处理到论文撰写格式全程可参考，适合备赛同学直接借鉴结构与写作思路，有需要可自行取用。
+
+This repository contains complete works from various mathematical modeling and data analysis competitions I participated in during my undergraduate studies, covering national, provincial, and university-level competitions. It provides a complete practical example of the entire process from zero-based preparation to the final paper output.
+Due to the early completion time of these works, the original code has been lost. This repository only archives the final competition entries, problem-solving approaches, and draft papers; it does not contain runnable code and is intended solely for preparation reference.
+The repository also includes my complete Word draft of the National Undergraduate Mathematical Modeling Contest. It provides a complete reference from problem analysis, model building, data processing to paper writing format, suitable for students preparing for the competition to directly learn from the structure and writing approach. Feel free to use it if needed.
